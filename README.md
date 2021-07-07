@@ -1,4 +1,4 @@
-# Admission trial  project
+# Admission trial project
 
 > Set up a Project2-trial folder.
 
@@ -35,7 +35,8 @@ change into the working directory.
 - LinkedIn: [Balqees Ibrahim](https://www.linkedin.com/in/balqees-ibrahim-911a81204/)
 
 ## Live Demo
- [Live Demo](https://github.com/balqees0325)
+
+[Live Demo](https://github.com/balqees0325)
 
 ## 🤝 Contributing
 
@@ -48,5 +49,6 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+
 - FCC
 - Microverse

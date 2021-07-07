@@ -3,6 +3,7 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
 .container {
 	padding-top: 50px;
 	width: 100%;
@@ -10,28 +11,34 @@
 	display: flex;
 	background-color: #eee;
 }
+
 .sideNav {
 	height: 100vh;
 	padding: 1rem;
-  width: 20%;
-  margin: 0;
+	width: 20%;
+	margin: 0;
 }
+
 .sideNav h1 {
 	text-transform: capitalize;
 }
+
 .sideNav ul {
 	list-style-type: none;
 	width: 100%;
 	overflow: scroll;
 }
+
 .sideNav ul li {
 	border-bottom: 1px solid #000;
 	padding: 1.2rem;
 }
+
 .sideNav ul li a {
 	color: #333;
 	text-decoration: none;
 }
+
 .main {
-  width: 75%;
+	width: 75%;
 }
