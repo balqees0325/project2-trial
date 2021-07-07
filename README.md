@@ -1,8 +1,8 @@
-# Hello Microverse
+# Admission trial  project
 
-> Set up a "Hello Microverse" project.
+> Set up a Project2-trial folder.
 
-![image](https://user-images.githubusercontent.com/66781780/124796792-9d132a00-df62-11eb-9568-d027fd966862.png)
+![image](https://user-images.githubusercontent.com/66781780/124811245-4eba5700-df73-11eb-8a75-484d4cce4dcc.png)
 
 In this project, we will set up a "A copy-admission-trial-project" repository. No complex coding is required for this exercise. Our goal here is to master all of the tools and best practices we learned about in previous steps.
 
@@ -16,11 +16,11 @@ In this project, we will set up a "A copy-admission-trial-project" repository. N
 
 To get a local copy up and running follow these simple example steps.
 
-`https://github.com/balqees0325/copy-admission-trial.git`
+`https://github.com/balqees0325/project2-trial.git`
 
 change into the working directory.
 
-`cd copy-admission-trial`
+`cd project2-trial`
 
 ### Prerequisites
 
@@ -48,5 +48,5 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- The Odins Project
+- FCC
 - Microverse
